@@ -1,6 +1,6 @@
 <a href="https://romland.space" title="Romland.Space"><img src="https://raw.githubusercontent.com/linusromland/linusromland/master/bossbann.png" alt="bannerImage" /></a>
 
-Check out my School Organization for the school assigments. <a href="https://github.com/linusromlandSkola" title="GitHub for School">School Git</a>
+Check out my <a href="https://github.com/linusromlandSkola" title="GitHub for School">School Git</a> for the school assigments. 
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=01958C)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=01958C)

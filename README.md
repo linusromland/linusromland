@@ -6,12 +6,7 @@
 
 ### About me
 
--   Studying `JavaScript` at [IT-Högskolan Göteborg](https://iths.se/).
 -   Fullstack / Web developer at [Plejd AB](https://www.plejd.com/).
-
-### Education 🏫
-
-All projects related to my education can be found [here](https://github.com/linusromlandITHS).
 
 ### Connect with me:
 

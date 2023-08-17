@@ -6,7 +6,7 @@
 
 ### About me
 
--   Fullstack / Web developer at [Plejd AB](https://www.plejd.com/).
+-   Developer at [Surikat AB](surikat.se).
 
 ### Connect with me:
 

@@ -6,7 +6,7 @@
 
 ### About me
 
--   Developer at [Surikat AB](surikat.se).
+-   Developer at [Surikat AB](https://surikat.se).
 
 ### Connect with me:
 

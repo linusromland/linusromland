@@ -6,7 +6,7 @@
 
 ### About me
 
--   Developer at [Surikat AB](https://surikat.se).
+-   Web Software Developer at [Surikat AB](https://surikat.se).
 
 ### Connect with me:
 
